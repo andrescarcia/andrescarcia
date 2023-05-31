@@ -17,7 +17,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Metropolitana de Car
 
 ## 📫 Contacto
 
-- **Correo electrónico**: [andrescarciag@gemail.com](mailto:andrescarciag@email.com)
+- **Correo electrónico**: [andrescarciag@gmail.com](mailto:andrescarciag@gmail.com)
 - **LinkedIn**: [linkedin.com/in/andre-scarcia](https://www.linkedin.com/in/andre-scarcia/)
 - **Twitter**: [@andrescarcia](https://twitter.com/andrescarcia)
 
