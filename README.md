@@ -6,7 +6,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Metropolitana de Car
 
 ## 🚀 Habilidades
 
-- **Lenguajes de programación**: 
+- **Lenguajes de programación** - : 
     -Python : Mid-Level
     -Java : Junior
     -HTML : Mid-Level
