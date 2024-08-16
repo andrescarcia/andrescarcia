@@ -7,13 +7,13 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Metropolitana de Car
 ## 🚀 Habilidades
 
 - **Lenguajes de programación y Frameworks**: 
-    - Python : Mid-Level 🐍
-    - PHP: Mid-Level 🐘
-    - Java : Junior ☕️
-    - HTML : Mid-Level 📄
-    - CSS : Junior✨
-    - JavaScript : Junior🟡
-    - Laravel: Mid-Level 🟥
+    - 🐍Python : Mid-Level
+    - 🐘PHP: Mid-Level
+    - ☕️Java : Junior
+    - 📄HTML : Mid-Level
+    - ✨CSS : Junior
+    - 🟡JavaScript : Junior
+    - 🟥Laravel: Mid-Level
 - **Liderazgo**: Capacidad para guiar y motivar a los miembros del equipo
 - **Trabajo en equipo**: Colaboración efectiva y comunicación clara con los compañeros de equipo
 - **Aprendizaje continuo**: Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías
