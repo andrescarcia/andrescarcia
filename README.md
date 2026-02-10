@@ -1,19 +1,17 @@
 # Hola, soy Andre Scarcia 👋
 
-![Banner](https://cleanpublicdomain.com/wp-content/uploads/edd/2018/07/banner-1557834-1560x490.jpg)
-
-Soy estudiante de Ingeniería de Sistemas en la Universidad Metropolitana de Caracas. Me apasiona el desarrollo de software y tengo experiencia en múltiples lenguajes de programación, como Python, Java, HTML, CSS y JavaScript. Me considero un líder nato y disfruto trabajando en equipo para lograr objetivos comunes.
+Soy Ingeniero de Sistemas en la Universidad Metropolitana de Caracas. Me considero un líder nato y disfruto trabajando en equipo para lograr objetivos comunes.
 
 ## 🚀 Habilidades
 
 - **Lenguajes de programación y Frameworks**: 
-    - 🐍Python : Mid-Level
-    - 🐘PHP: Mid-Level
-    - ☕️Java : Junior
-    - 📄HTML : Mid-Level
-    - ✨CSS : Junior
-    - 🟡JavaScript : Junior
-    - 🟥Laravel: Mid-Level
+    - 🐍Python 
+    - 🐘PHP
+    - ☕️Java 
+    - 📄HTML 
+    - ✨CSS
+    - 🟡JavaScript 
+    - 🟥Laravel
 - **Liderazgo**: Capacidad para guiar y motivar a los miembros del equipo
 - **Trabajo en equipo**: Colaboración efectiva y comunicación clara con los compañeros de equipo
 - **Aprendizaje continuo**: Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías
